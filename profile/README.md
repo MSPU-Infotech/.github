@@ -2,13 +2,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=MSPU%20INFOTECH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%E2%80%A2%20Mobile%20Apps%20%E2%80%A2%20AI%20Solutions&descAlignY=55"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Development+Agency;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+PHP;Mobile+Apps+%E2%80%A2+WordPress+%E2%80%A2+AI+Solutions;Turning+Ideas+Into+Production+Ready+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=100&repeat=true&lines=Full-Stack+Development+Agency;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+PHP;Mobile+Apps+%E2%80%A2+WordPress+%E2%80%A2+AI+Solutions;Turning+Ideas+Into+Production-Ready+Products)](https://git.io/typing-svg)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MSPU-Infotech.MSPU-Infotech" alt="visitors"/>
+<br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MSPU-Infotech.MSPU-Infotech" alt="Visitors"/>
+
+<br><br>
 
 📧 **mspuinfotech@gmail.com**  
 📞 **+91 9026718691**  
 🔗 **[github.com/MSPU-Infotech](https://github.com/MSPU-Infotech)**
+
+<br>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header&animation=twinkling)
 
@@ -26,19 +32,19 @@ We take projects from requirement analysis through deployment and post-launch su
 
 **Typical delivery:** 2–4 weeks depending on project scope.
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header&animation=blinking)
 
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&repeat=true&lines=Technologies+We+Use;Frontend+%E2%80%A2+Backend+%E2%80%A2+Mobile+%E2%80%A2+AI;Production+Ready+Development+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=Technologies+We+Use;Frontend+%E2%80%A2+Backend+%E2%80%A2+Mobile+%E2%80%A2+AI;Production-Ready+Development+Stack)](https://git.io/typing-svg)
 
 <br>
 
@@ -106,19 +112,19 @@ We take projects from requirement analysis through deployment and post-launch su
 ![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header&animation=twinkling)
 
 </div>
 
+---
+
 ## 💼 Core Services
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&repeat=true&lines=What+We+Build+For+You;Modern+Web+Applications;AI+Powered+Digital+Solutions;Scalable+Business+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=What+We+Build+For+You;Modern+Web+Applications;AI-Powered+Digital+Solutions;Scalable+Business+Platforms)](https://git.io/typing-svg)
 
 </div>
 
@@ -129,13 +135,13 @@ We take projects from requirement analysis through deployment and post-launch su
 - **WordPress Solutions** — WordPress, WooCommerce and Elementor websites
 - **REST API Development** — secure and scalable API development and third-party integrations
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header&animation=blinking)
 
 </div>
+
+---
 
 ## 🚀 Featured Work
 
@@ -148,13 +154,13 @@ We take projects from requirement analysis through deployment and post-launch su
 | **Cafe Website** | Responsive cafe website with modern UI | HTML, CSS, JavaScript |
 | **Business Websites** | Custom websites for small businesses and startups | React, Next.js, PHP |
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header&animation=twinkling)
 
 </div>
+
+---
 
 ## 🎮 Development Arcade
 
@@ -164,39 +170,39 @@ We take projects from requirement analysis through deployment and post-launch su
 
 <br>
 
-<!-- Animated Breakout Contribution Game -->
-
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MSPU-Infotech/MSPU-Infotech/output/dark.svg"
+    srcset="https://raw.githubusercontent.com/MSPU-Infotech/.github/github-breakout/images/breakout-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MSPU-Infotech/MSPU-Infotech/output/light.svg"
+    srcset="https://raw.githubusercontent.com/MSPU-Infotech/.github/github-breakout/images/breakout-light.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/MSPU-Infotech/MSPU-Infotech/output/dark.svg"
+    src="https://raw.githubusercontent.com/MSPU-Infotech/.github/github-breakout/images/breakout-dark.svg"
     alt="MSPU Infotech GitHub Breakout Contribution Game"
     width="900"
   />
+
 </picture>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&repeat=true&lines=Breaking+Bugs+%F0%9F%A7%B1;Building+Features+%F0%9F%92%BB;Deploying+Solutions+%F0%9F%9A%80;Turning+Code+Into+Impact+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=Breaking+Bugs+%F0%9F%A7%B1;Building+Features+%F0%9F%92%BB;Deploying+Solutions+%F0%9F%9A%80;Turning+Code+Into+Impact+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
-
----
 
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header&animation=blinking)
 
 </div>
+
+---
 
 ## 👥 Our Team
 
@@ -211,13 +217,13 @@ We take projects from requirement analysis through deployment and post-launch su
 
 </div>
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&section=header&animation=twinkling)
 
 </div>
+
+---
 
 ## 📩 Get in Touch
 
@@ -241,14 +247,15 @@ We take projects from requirement analysis through deployment and post-launch su
 
 </div>
 
----
-
 <div align="center">
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header&animation=twinkling)
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=140&section=footer&animation=twinkling"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=140&section=footer&animation=twinkling"
+/>
 
 </div>
