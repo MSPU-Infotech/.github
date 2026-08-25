@@ -1,1 +1,22 @@
+name: Generate Breakout Game
 
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  breakout:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Breakout Game
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: MSPU-Infotech
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          enable_ghost_bricks: true
