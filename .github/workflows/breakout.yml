@@ -1,22 +1,46 @@
-name: Generate Breakout Game
+name: Generate Breakout SVG
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
+    - cron: "0 */24 * * *"
 
 jobs:
-  breakout:
+  generate-svg:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate Breakout Game
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Breakout SVG
         uses: cyprieng/github-breakout@v1
         with:
-          github_username: MSPU-Infotech
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: ${{ github.repository_owner }}
           enable_ghost_bricks: true
+
+      - name: Move generated SVGs to temp
+        run: |
+          mkdir -p /tmp/breakout-images
+          mv output/light.svg /tmp/breakout-images/breakout-light.svg
+          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and force-push SVGs
+        run: |
+          git checkout --orphan github-breakout
+          git rm -rf .
+          mkdir images
+          mv /tmp/breakout-images/* images/
+          git add images
+          git commit -m "chore: update GitHub breakout SVGs"
+          git push --force origin github-breakout
