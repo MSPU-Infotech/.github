@@ -21,26 +21,53 @@ jobs:
       - name: Generate Breakout SVG
         uses: cyprieng/github-breakout@v1
         with:
-          github_username: ${{ github.repository_owner }}
+          github_username: UdayrajRastogi-Dev
           enable_ghost_bricks: true
+
+          # MSPU Infotech Blue Theme
+          paddle_color: "#2563EB"
+          ball_color: "#38BDF8"
+          bricks_colors: "#0EA5E9,#0284C7,#2563EB,#1D4ED8,#1E40AF"
+
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          ls -la output/
 
       - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+
+          mv output/light.svg \
+            /tmp/breakout-images/breakout-light.svg
+
+          mv output/dark.svg \
+            /tmp/breakout-images/breakout-dark.svg
+
+          if [ -f output/custom.svg ]; then
+            mv output/custom.svg \
+              /tmp/breakout-images/breakout-blue.svg
+          fi
 
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and force-push SVGs
+      - name: Commit and push Breakout SVGs
         run: |
           git checkout --orphan github-breakout
-          git rm -rf .
-          mkdir images
+
+          git rm -rf . || true
+
+          mkdir -p images
+
           mv /tmp/breakout-images/* images/
+
           git add images
-          git commit -m "chore: update GitHub breakout SVGs"
+
+          git commit \
+            -m "chore: update GitHub Breakout SVGs" \
+            || echo "No changes to commit"
+
           git push --force origin github-breakout
