@@ -184,7 +184,7 @@ We take projects from requirement analysis through deployment and post-launch su
 
   <img
     src="https://raw.githubusercontent.com/MSPU-Infotech/.github/github-breakout/images/breakout-dark.svg"
-    alt="MSPU Infotech GitHub Breakout Contribution Game"
+    alt="MSPU Infotech GitHub Breakout Game"
     width="900"
   />
 
@@ -192,13 +192,7 @@ We take projects from requirement analysis through deployment and post-launch su
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=Breaking+Bugs+%F0%9F%A7%B1;Building+Features+%F0%9F%92%BB;Deploying+Solutions+%F0%9F%9A%80;Turning+Code+Into+Impact+%F0%9F%8C%90)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header&animation=blinking)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=40&repeat=true&lines=Breaking+Bugs+🧱;Building+Features+💻;Deploying+Solutions+🚀;Turning+Code+Into+Impact+🌐)](https://git.io/typing-svg)
 
 </div>
 
